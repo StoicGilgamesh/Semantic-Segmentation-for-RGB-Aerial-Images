@@ -5,3 +5,6 @@ to guide the UAV towards suitable landing spot. The proposed framework has been 
 
 Please do also find the poster (Final_poster.pdf) for this project which gives more detailed answeres for the results and accuracy.
 
+The acceptable dataset format is the similar to Semantic Drone Dataset bu TU Graz. So you can also use that directly.
+
+For running the code please run "train.py". You can tune the parameters and hyperparameters of the networks by editing the values in the training script itself.
